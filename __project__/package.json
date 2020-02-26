@@ -1,0 +1,14 @@
+{
+  "name": "GetDistance",
+  "version": "1.0.0",
+  "description": "Get total distance from addresses",
+  "main": "index.js",
+  "author": "headit74@hotmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "@google/maps": "^1.1.0",
+    "csv-parser": "^2.3.2",
+    "file-system": "^2.2.2",
+    "fs": "0.0.1-security"
+  }
+}
